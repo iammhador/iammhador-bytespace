@@ -45,9 +45,3 @@ public/       images and icons
 Colors, fonts and shadows are defined as Tailwind theme tokens in `app/globals.css`, for example `bg-primary`, `bg-lime`, `text-shuttle-700`, `font-poppins` and `font-satoshi`.
 
 Fonts: Poppins (Google Fonts), Satoshi and Clash Display (self-hosted in `app/fonts`).
-
-## Todo
-
-- Connect auth forms and newsletter to the API
-- Replace static course, creator and review data with real data
-- Search filters and sorting
